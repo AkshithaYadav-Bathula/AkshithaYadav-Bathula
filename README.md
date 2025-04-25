@@ -12,7 +12,7 @@ I'm a third-year Computer Science student passionate about building impactful so
 - 🌱 Expanding my knowledge in **Web Development**
 - 🤝 Open to collaborating on **Full Stack Development** projects
 - 💻 Strong foundation in **Computer Science Fundamentals**
-- ⚡ Fun fact: I believe in working smarter, not harder
+- ⚡ Fun fact: I am Lazy
 
 ## Tech Stack
 
