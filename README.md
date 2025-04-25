@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Akshitha Yadav</h1>
 <h3 align="center">A Passionate third-year Computer Science student with a strong interest in Full Stack Development, Machine Learning, and Problem Solving. Skilled in Java, Python, SQL, and front-end technologies. Driven by the goal of turning ideas into impactful solutions and continuously learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithayadav-bathula&label=Profile%20views&color=0e75b6&style=flat" alt="akshithayadav-bathula" /> </p>
-
-- 🔭 I’m currently working on **Information Security & Watermarking**
+- 🔭 I’m currently working on **Information Security & Blockchain**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 🤝 I’m looking for help with **Web**
+- 🤝 I’m looking to collaborate on **Fullstack Development**
 
 - 💬 Ask me about **Computer Science Fundamentals and Tech updates**
 
