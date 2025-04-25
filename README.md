@@ -55,7 +55,6 @@ I'm a third-year Computer Science student passionate about building impactful so
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akshithayadav&style=flat-square&color=blue" alt="Profile Views" />
