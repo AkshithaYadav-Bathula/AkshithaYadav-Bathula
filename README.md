@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
+I'm a final-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
 
 - 🔭 Currently focusing on **Information Security & Blockchain**
 - 🌱 Expanding my knowledge in **Web Development**
