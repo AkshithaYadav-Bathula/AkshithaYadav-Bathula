@@ -1,7 +1,9 @@
 # <div align="center">Hi there! I'm Akshitha Yadav 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C83F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C83F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C83F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;SDE+Aspirant;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+
 </div>
 
 ## About Me
