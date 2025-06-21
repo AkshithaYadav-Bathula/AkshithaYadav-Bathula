@@ -46,6 +46,7 @@ I'm a final-year Computer Science student passionate about building impactful so
 ### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
 ## Let's Connect!
