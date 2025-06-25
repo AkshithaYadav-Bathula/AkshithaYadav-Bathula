@@ -1,20 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Akshitha%20Yadav%20👋&descAlignY=55&descAlign=50&descSize=20"/>
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Akshitha%20Yadav%20👋&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
-</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750872-9073a34a-19d5-4f87-b2c3-9f1a4ffeaefe.gif">
-
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 I'm a final-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
 
-- 🔭 Currently focusing on **MERN STACK**
+- 🔭 Currently focusing on **Information Security & Blockchain**
+- 🌱 Expanding my knowledge in **Web Development**
 - 🤝 Open to collaborating on **Full Stack Development** projects
 - 💻 Strong foundation in **Computer Science Fundamentals**
 - ⚡ Fun fact: I am vibe coder
@@ -42,7 +41,6 @@ I'm a final-year Computer Science student passionate about building impactful so
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
 </div>
-
 
 ---
 
@@ -72,10 +70,6 @@ I'm a final-year Computer Science student passionate about building impactful so
   <a href="mailto:akshithayadavbathula27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 </div>
 
 <div align="center">
