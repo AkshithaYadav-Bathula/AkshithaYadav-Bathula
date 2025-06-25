@@ -55,9 +55,9 @@ I'm a final-year Computer Science student passionate about building impactful so
   <a href="https://linkedin.com/in/akshitha-yadav-bathula-9ab324259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<!--   <a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a> -->
+  <a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
   <a href="mailto:akshithayadavbathula27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
