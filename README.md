@@ -1,13 +1,13 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C83F7,100:6C5CE7&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Hi%20there!%20I'm%20Akshitha%20Yadav%20👋&descAlignY=58&descAlign=50&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C83F7,100:6C5CE7&height=180&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20My%20GitHub%20Profile%20👋&descAlignY=60&descAlign=50&descSize=18"/>
+</div>
+
+<div align="center">
+  <h2>Hi, I'm Akshitha Yadav! 👋</h2>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C83F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ---
@@ -57,23 +57,28 @@ I'm a final-year Computer Science student passionate about building impactful so
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200em"/>
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshithayadav&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshithayadav&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+> **Note:** If the activity graph appears empty, it might be due to:
+> 1. Commits may take up to 24 hours to appear on your contributions graph
+> 2. Email address used for commits must be verified and connected to your GitHub account
+> 3. Make sure "Private contributions" is selected in your contribution settings if you have private repos
+
+<div align="center">
+  <em>💡 Check your GitHub profile settings → Contribution settings → Include private contributions</em>
 </div>
 
 ---
