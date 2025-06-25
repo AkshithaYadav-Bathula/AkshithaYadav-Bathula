@@ -42,18 +42,6 @@ I'm a final-year Computer Science student passionate about building impactful so
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
 
 ---
 
