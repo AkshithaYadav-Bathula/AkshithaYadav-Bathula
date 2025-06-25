@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750872-9073a34a-19d5-4f87-b2c3-9f1a4ffeaefe.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
@@ -42,19 +44,6 @@ I'm a final-year Computer Science student passionate about building impactful so
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Achievements
 
 <div align="center">
@@ -84,11 +73,11 @@ I'm a final-year Computer Science student passionate about building impactful so
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshithayadav&style=for-the-badge&color=2196F3&labelColor=1a1b27" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akshithayadav&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views" />
 </div>
 
 <div align="center">
