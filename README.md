@@ -44,6 +44,19 @@ I'm a final-year Computer Science student passionate about building impactful so
 
 ---
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Achievements
 
 <div align="center">
@@ -83,8 +96,6 @@ I'm a final-year Computer Science student passionate about building impactful so
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
-
-
 
 ---
 
