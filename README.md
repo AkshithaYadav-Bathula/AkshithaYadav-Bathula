@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 I'm a final-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
@@ -24,31 +22,22 @@ I'm a final-year Computer Science student passionate about building impactful so
 
 ### Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" />
 </div>
 
 ### Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 </div>
 
 ### Backend & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
 </div>
 
-### Databases
+### Databases & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
 </div>
 
 ---
