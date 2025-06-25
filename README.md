@@ -12,8 +12,7 @@
 
 I'm a final-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
 
-- 🔭 Currently focusing on **Information Security & Blockchain**
-- 🌱 Expanding my knowledge in **Web Development**
+- 🔭 Currently focusing on **MERN STACK**
 - 🤝 Open to collaborating on **Full Stack Development** projects
 - 💻 Strong foundation in **Computer Science Fundamentals**
 - ⚡ Fun fact: I am vibe coder
