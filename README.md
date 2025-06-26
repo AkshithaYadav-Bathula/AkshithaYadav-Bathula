@@ -1,87 +1,126 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Akshitha%20Yadav%20👋&descAlignY=55&descAlign=50&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Akshitha%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Computer+Science+Student;SDE+Aspirant;Top+250+-+Walmart+CodeHers+2025;Full+Stack+Developer;500%2B+LeetCode+Problems;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Conquered;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
 </div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750872-9073a34a-19d5-4f87-b2c3-9f1a4ffeaefe.gif">
+<br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;About Me
 
-I'm a final-year Computer Science student passionate about building impactful solutions through code. My interests lie in Full Stack Development, Machine Learning, and solving complex problems efficiently.
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently focusing on **Information Security & Blockchain**
-- 🌱 Expanding my knowledge in **Web Development**
-- 🤝 Open to collaborating on **Full Stack Development** projects
-- 💻 Strong foundation in **Computer Science Fundamentals**
-- ⚡ Fun fact: I am vibe coder
+```yaml
+name: Akshitha Yadav
+location: India
+current_focus: Information Security & Blockchain
+learning: Advanced Web Development & System Design
+passion: Creating impactful solutions through elegant code
+motto: "Code with purpose, learn with curiosity"
+```
+
+### 🎯 Current Journey
+- 🔒 **Deep diving into** Information Security & Blockchain technologies
+- 🌐 **Mastering** Full Stack Development with modern frameworks
+- 🧠 **Strengthening** Computer Science fundamentals and system design
+- 🤝 **Open to collaborate** on innovative projects that make a difference
+- ⚡ **Philosophy:** Quality over quantity, but why not both?
+
+<br clear="right"/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Arsenal
+
+<div align="center">
+
+### 🔤 Languages & Core
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css&theme=dark&perline=6" />
+
+### ⚛️ Frontend Ecosystem  
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass&theme=dark&perline=4" />
+
+### 🔧 Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark&perline=5" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&theme=dark&perline=4" />
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark&perline=6" />
+
+</div>
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Stats
+
+<div align="center">
+
+### 🏆 Milestones
+| Achievement | Status |
+|-------------|--------|
+| 🥇 **Walmart CodeHers 2025** | Top 250 |
+| 💪 **LeetCode Journey** | 500+ Problems |
+| 🎓 **Academic Status** | Final Year CS |
+| 🚀 **Development Focus** | Full Stack |
+
+<br>
+
+### 📊 GitHub Analytics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff"/>
+
+<br>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea" alt="GitHub Streak" />
+
+### 🏅 Achievement Gallery
+<img src="https://github-profile-trophy.vercel.app/?username=akshithayadav&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=10&margin-w=5&no-bg=true" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> &nbsp;Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 Find Me Online
+<a href="https://linkedin.com/in/akshitha-yadav-bathula-9ab324259" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> 
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:akshithayadavbathula27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+</a>
+
+<br><br>
+
+### 💡 Open to Opportunities
+```
+🤝 Collaboration Projects    🚀 Internship Opportunities
+💼 Freelance Work           🎯 Open Source Contributions
+🏆 Hackathons & Competitions 🌱 Mentorship Exchange
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=akshithayadav&style=for-the-badge&color=667eea&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
+
+</div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Stack
-
-### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" />
-</div>
-
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-</div>
-
-### Backend & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
-</div>
-
-### Databases & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshithayadav&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
-**🏆 Highlights:**
-- **Top 250** - Walmart CodeHers 2025
-- **500+** LeetCode Problems Solved
-- **Final Year** Computer Science Student
-- **Full Stack Development** Enthusiast
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/akshitha-yadav-bathula-9ab324259" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> 
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="mailto:akshithayadavbathula27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshithayadav&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
-</div>
-
----
-
-<div align="center">
-  <em>⭐ Thanks for visiting my profile! ⭐</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀;Always+learning%2C+always+growing%2C+always+coding+💻;Connect+with+me+and+let's+innovate+the+future+🌟" alt="Footer Typing" />
 </div>
