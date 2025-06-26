@@ -35,23 +35,20 @@ motto: "Code with purpose, learn with curiosity"
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Stack
 
 <div align="center">
-
 ### 🔤 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" style="width: 300px;" />
 
 ### ⚛ Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" style="width: 250px;" />
 
 ### 🔧 Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" style="width: 280px;" />
 
 ### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" style="width: 220px;" />
 
 ### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" style="width: 300px;" />
 
 <br>
 
