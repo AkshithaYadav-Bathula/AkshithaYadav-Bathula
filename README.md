@@ -38,7 +38,7 @@ motto: "Code with purpose, learn with curiosity"
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" />
 
 ### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" />
 
 ### 🔧 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" />
