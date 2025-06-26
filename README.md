@@ -3,7 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🚀+CS+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Solved" alt="Dynamic Typing" />
+  
+**🚀 Computer Science Student & SDE Aspirant**
+
+**🏆 Top 250 Walmart CodeHers 2025**
+
+**💻 500+ LeetCode Problems Conquered**
+
+**🌟 Building the Future, One Line at a Time**
+
 </div>
 
 <br>
@@ -53,19 +61,33 @@ motto: "Code with purpose, learn with curiosity"
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Stats
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Highlights
 
 <div align="center">
 
-### 🏆 Milestones
-| Achievement | Status |
-|-------------|--------|
-| 🥇 *Walmart CodeHers 2025* | Top 250 |
-| 💪 *LeetCode Journey* | 500+ Problems |
-| 🎓 *Academic Status* | Final Year CS |
-| 🚀 *Development Focus* | Full Stack |
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
 
-<br> 
+<div align="center">
+<img src="https://img.shields.io/badge/🥇_Walmart_CodeHers_2025-Top_250-FFD700?style=for-the-badge&labelColor=1a1a1a&color=667eea" />
+<br><sub><b>Elite Programming Competition</b></sub>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/💪_LeetCode_Journey-500+_Problems-FFA116?style=for-the-badge&labelColor=1a1a1a&color=F075AA" />
+<br><sub><b>Data Structures & Algorithms</b></sub>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🎓_Academic_Status-Final_Year_CS-4CAF50?style=for-the-badge&labelColor=1a1a1a&color=764ba2" />
+<br><sub><b>Computer Science Engineering</b></sub>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🚀_Development_Focus-Full_Stack-2196F3?style=for-the-badge&labelColor=1a1a1a&color=667eea" />
+<br><sub><b>End-to-End Solutions</b></sub>
+</div>
+
+</div>
 
 </div>
 
