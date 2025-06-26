@@ -1,9 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Akshitha%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=I'm%20Akshitha%20Yadav%20%7C%20Welcome%20to%20my%20GitHub%20Profile%20👋&descAlignY=60&descAlign=50&descSize=18"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+Solved+500%2B+LeetCode+Problems;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Conquered;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
 </div>
 
 <br>
@@ -30,24 +30,24 @@ motto: "Code with purpose, learn with curiosity"
 
 <br clear="right"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-### 🔤 Programming Languages 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" />
+### 🔤 Languages & Core
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css&theme=dark&perline=6" />
 
-### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" />
+### ⚛️ Frontend Ecosystem  
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass&theme=dark&perline=4" />
 
 ### 🔧 Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark&perline=5" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&theme=dark&perline=4" />
 
-### 🛠️ Tools 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" />
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -65,6 +65,13 @@ motto: "Code with purpose, learn with curiosity"
 | 🎓 **Academic Status** | Final Year CS |
 | 🚀 **Development Focus** | Full Stack |
 
+<br>
+
+### 📊 GitHub Analytics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff"/>
+
+<br>
 
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea" alt="GitHub Streak" />
