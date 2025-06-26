@@ -84,13 +84,6 @@ motto: "Code with purpose, learn with curiosity"
 
 <img src="https://komarev.com/ghpvc/?username=akshithayadav&style=for-the-badge&color=667eea&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀;Always+learning%2C+always+growing%2C+always+coding+💻;Connect+with+me+and+let's+innovate+the+future+🌟" alt="Footer Typing" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:b9379d,100:4a00e0&height=150&section=footer&animation=twinkling"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:b9379d,100:4a00e0&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Always%20learning%2C%20always%20growing%2C%20always%20coding%20💻&descAlign=50&descAlignY=70&descSize=16" />
