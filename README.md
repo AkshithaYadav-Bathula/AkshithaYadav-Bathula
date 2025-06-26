@@ -35,23 +35,24 @@ motto: "Code with purpose, learn with curiosity"
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Stack
 
 <div align="center">
-  <br>
-### 🔤 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" style="width:120px; height:auto;" />
 
-### ⚛ Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" style="width:120px; height:auto;" />
+  <h3>🔤 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" style="width:120px; height:auto;" />
 
-### 🔧 Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" style="width:120px; height:auto;" />
+  <h3>⚛ Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" style="width:120px; height:auto;" />
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" style="width:120px; height:auto;" />
+  <h3>🔧 Backend & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" style="width:120px; height:auto;" />
 
-### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" style="width:120px; height:auto;" />
+  <h3>🗄 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" style="width:120px; height:auto;" />
 
-<br>
+  <h3>🛠 Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" style="width:120px; height:auto;" />
+
+</div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> &nbsp;Let's Connect & Collaborate
 
