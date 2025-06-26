@@ -55,16 +55,6 @@ motto: "Code with purpose, learn with curiosity"
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Stats
-
-<div align="center">
-
-🥇 **Top 250 in Walmart CodeHers 2025** | 💪 **500+ LeetCode Problems** | 🎓 **Final Year CS Student** | 🚀 **Full Stack Developer**
-
-</div>
-
-<br>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> &nbsp;Let's Connect & Collaborate
 
 <div align="center">
