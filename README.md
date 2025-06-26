@@ -77,17 +77,16 @@ motto: "Code with purpose, learn with curiosity"
 
 ### 🌐 Find Me Online
 <a href="https://linkedin.com/in/akshitha-yadav-bathula-9ab324259" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=667eea" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> 
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=F075AA" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:akshithayadavbathula27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=764ba2" alt="Email" />
 </a>
-
 <br><br>
 
 ### 💡 Open to Opportunities
