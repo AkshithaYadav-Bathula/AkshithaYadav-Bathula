@@ -3,15 +3,9 @@
 </div>
 
 <div align="center">
-  
-**🚀 Computer Science Student & SDE Aspirant**
-
-**🏆 Top 250 Walmart CodeHers 2025**
-
-**💻 500+ LeetCode Problems Conquered**
-
-**🌟 Building the Future, One Line at a Time**
-
+  <h2>🚀 Computer Science Student & SDE Aspirant</h2>
+  <h3>🏆 Top 250 Walmart CodeHers 2025 • 💻 500+ LeetCode Problems Solved</h3>
+  <p><em>Building the Future, One Line at a Time</em></p>
 </div>
 
 <br>
@@ -61,33 +55,11 @@ motto: "Code with purpose, learn with curiosity"
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Highlights
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Achievements & Stats
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-
-<div align="center">
-<img src="https://img.shields.io/badge/🥇_Walmart_CodeHers_2025-Top_250-FFD700?style=for-the-badge&labelColor=1a1a1a&color=667eea" />
-<br><sub><b>Elite Programming Competition</b></sub>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/💪_LeetCode_Journey-500+_Problems-FFA116?style=for-the-badge&labelColor=1a1a1a&color=F075AA" />
-<br><sub><b>Data Structures & Algorithms</b></sub>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/🎓_Academic_Status-Final_Year_CS-4CAF50?style=for-the-badge&labelColor=1a1a1a&color=764ba2" />
-<br><sub><b>Computer Science Engineering</b></sub>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/🚀_Development_Focus-Full_Stack-2196F3?style=for-the-badge&labelColor=1a1a1a&color=667eea" />
-<br><sub><b>End-to-End Solutions</b></sub>
-</div>
-
-</div>
+🥇 **Top 250 in Walmart CodeHers 2025** | 💪 **500+ LeetCode Problems** | 🎓 **Final Year CS Student** | 🚀 **Full Stack Developer**
 
 </div>
 
