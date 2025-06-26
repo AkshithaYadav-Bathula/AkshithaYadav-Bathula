@@ -89,9 +89,5 @@ motto: "Code with purpose, learn with curiosity"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:b9379d,100:4a00e0&height=150&section=footer&animation=twinkling"/>
 </div>
