@@ -1,15 +1,20 @@
 # <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:b9379d,100:4a00e0&height=200&section=header&text=Hey%20There!%20I'm%20Akshitha%20Yadav%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=65&descAlign=50&descSize=16"/>
-</div>
-
 <div align="center">
-  <h2>🚀 Computer Science Student & SDE Aspirant</h2>
-  <h3>🏆 Top 250 Walmart CodeHers 2025 • 💻 500+ LeetCode Problems Solved</h3>
-  <p><em>Building the Future, One Line at a Time</em></p>
+
+  <h2>👩‍💻 Akshitha Yadav</h2>
+  <h3>🚀 Computer Science Student & Aspiring Software Development Engineer (SDE)</h3>
+  <p>
+    <strong>🏆</strong> Top 250 Walmart CodeHers 2025 &nbsp;|&nbsp;
+    <strong>💻</strong> Solved 500+ DSA Problems on LeetCode
+  </p>
+  <p><em>🌟 Passionate about building impactful tech, one line of code at a time.</em></p>
+
 </div>
 
 <br>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;About Me
 
