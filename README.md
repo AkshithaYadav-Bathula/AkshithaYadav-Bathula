@@ -1,9 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=I'm%20Akshitha%20Yadav%20%7C%20Welcome%20to%20my%20GitHub%20Profile%20👋&descAlignY=60&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40&desc=I'm%20Akshitha%20Yadav%20%7C%20Welcome%20to%20my%20GitHub%20Profile%20👋&descAlignY=65&descAlign=50&descSize=16"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Conquered;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🚀+CS+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Solved" alt="Dynamic Typing" />
 </div>
 
 <br>
@@ -12,14 +12,14 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-yaml
+```yaml
 name: Akshitha Yadav
 location: India
 current_focus: DSA & Full Stack Development 
 learning: Data structures & System Design
 passion: Creating impactful solutions through elegant code
 motto: "Code with purpose, learn with curiosity"
-
+```
 
 ### 🎯 Current Journey
 - 🔒 *Deep diving into* Information Security & Blockchain technologies
