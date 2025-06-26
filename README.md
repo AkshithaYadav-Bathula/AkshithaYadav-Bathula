@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Conquered;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Science+Student+%26+SDE+Aspirant;🏆+Top+250+Walmart+CodeHers+2025;💻+Solved+500%2B+LeetCode+Problems;🌟+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
 </div>
 
 <br>
