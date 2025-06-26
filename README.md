@@ -1,19 +1,13 @@
 # <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0572,50:b9379d,100:4a00e0&height=200&section=header&text=Hey%20There!%20I'm%20Akshitha%20Yadav%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=65&descAlign=50&descSize=16"/>
+
 <div align="center">
 
-  <h2>👩‍💻 Akshitha Yadav</h2>
-  <h3>🚀 Computer Science Student & Aspiring Software Development Engineer (SDE)</h3>
-  <p>
-    <strong>🏆</strong> Top 250 Walmart CodeHers 2025 &nbsp;|&nbsp;
-    <strong>💻</strong> Solved 500+ DSA Problems on LeetCode
-  </p>
-  <p><em>🌟 Passionate about building impactful tech, one line of code at a time.</em></p>
+  <!-- Typing animation instead of static name repeat -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F075AA&center=true&vCenter=true&width=700&lines=🚀+Computer+Science+Student+%7C+Aspiring+SDE;🏆+Top+250+Walmart+CodeHers+2025;💻+500%2B+LeetCode+Problems+Solved;🌟+Building+impactful+tech+one+line+at+a+time!" alt="Typing SVG" />
 
 </div>
-
-<br>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;About Me
