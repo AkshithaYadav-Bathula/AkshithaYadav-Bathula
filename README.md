@@ -30,15 +30,15 @@ motto: "Code with purpose, learn with curiosity"
 
 <br clear="right"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Stack
 
 <div align="center">
 
-### 🔤 Languages & Core
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css&theme=dark&perline=6" />
+### 🔤 Programming Languages 
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" />
 
 ### ⚛️ Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,&theme=dark&perline=4" />
 
 ### 🔧 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" />
@@ -65,13 +65,6 @@ motto: "Code with purpose, learn with curiosity"
 | 🎓 **Academic Status** | Final Year CS |
 | 🚀 **Development Focus** | Full Stack |
 
-<br>
-
-### 📊 GitHub Analytics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshithayadav&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithayadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff"/>
-
-<br>
 
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithayadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea" alt="GitHub Streak" />
