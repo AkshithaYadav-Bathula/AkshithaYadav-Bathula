@@ -27,17 +27,7 @@ motto: "Code with purpose, learn with curiosity"
 - 🌐 *Mastering* Full Stack Development with modern frameworks
 - 🧠 *Strengthening* Computer Science fundamentals and DSA
 - 🤝 *Open to collaborate* on innovative projects that make a difference
-- 👩‍💻 Coding Profiles:  
-<a href="https://leetcode.com/u/akshitha_10-b32_/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="35" />
-</a>  
-<a href="https://codeforces.com/profile/Akshithayadav-b/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="25" width="35" />
-</a>  
-<a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="25" width="35" />
-</a>
-
+- 👩‍💻 Coding Profiles: <p align="left"> <a href="https://leetcode.com/u/akshitha_10-b32_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshita" height="30" width="40" /></a> <a href="https://codeforces.com/profile/Akshithayadav-b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshita" height="30" width="40" /></a> <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshita" height="30" width="40" /></a> U WANT BESIDE THE CODING PROFILES THESE ICONS
 
 </p>
 
