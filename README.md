@@ -18,17 +18,28 @@
 name: Akshitha Yadav
 location: India
 current_focus: DSA & Full Stack Development 
-learning: Data structures & System Design
+Strengthening: Computer Science fundamentals and DSA
 passion: Creating impactful solutions through elegant code
 motto: "Code with purpose, learn with curiosity"
 ```
 
 ### 🎯 Current Journey
-- 🔒 *Deep diving into* Information Security & Blockchain technologies
 - 🌐 *Mastering* Full Stack Development with modern frameworks
 - 🧠 *Strengthening* Computer Science fundamentals and DSA
 - 🤝 *Open to collaborate* on innovative projects that make a difference
-- ⚡ *Philosophy:* Quality over quantity, but why not both?
+- 👩‍💻 *Coding Profiles:* 
+  <a href="https://leetcode.com/akshitha_10-b32_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="24px" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="24px" alt="GFG"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Akshithayadav-b" target="_blank">
+    <img src="https://sta.codeforces.com/s/85907/images/codeforces-logo-with-telegram.png" width="24px" alt="Codeforces"/>
+  </a>
+
 
 <br clear="right"/>
 
