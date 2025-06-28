@@ -32,20 +32,18 @@ motto: "Code with purpose, learn with curiosity"
 <div align="center">
 
   <a href="https://leetcode.com/akshitha_10-b32_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" alt="LeetCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" alt="GeeksforGeeks" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" alt="GeeksforGeeks" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Akshithayadav-b" target="_blank">
-    <img src="https://sta.codeforces.com/s/85907/images/codeforces-logo-with-telegram.png" width="50" alt="Codeforces" />
+    <img src="https://raw.githubusercontent.com/MohammedRashad0/Competitive-Programming/master/icons/codeforces.png" width="45" alt="Codeforces" />
   </a>
 
 </div>
-
-
 
 <br clear="right"/>
 
