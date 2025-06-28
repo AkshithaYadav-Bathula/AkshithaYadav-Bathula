@@ -27,17 +27,18 @@ motto: "Code with purpose, learn with curiosity"
 - 🌐 *Mastering* Full Stack Development with modern frameworks
 - 🧠 *Strengthening* Computer Science fundamentals and DSA
 - 🤝 *Open to collaborate* on innovative projects that make a difference
-- 👩‍💻 *Coding Profiles:* 
+- 👩‍💻 *Coding Profiles:*  
+&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/akshitha_10-b32_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="24px" alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="30" alt="LeetCode" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="24px" alt="GFG"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30" alt="GeeksforGeeks" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Akshithayadav-b" target="_blank">
-    <img src="https://sta.codeforces.com/s/85907/images/codeforces-logo-with-telegram.png" width="24px" alt="Codeforces"/>
+    <img src="https://sta.codeforces.com/s/85907/images/codeforces-logo-with-telegram.png" width="30" alt="Codeforces" />
   </a>
 
 
