@@ -29,19 +29,15 @@ motto: "Code with purpose, learn with curiosity"
 - 🤝 *Open to collaborate* on innovative projects that make a difference
 - 👩‍💻 *Coding Profiles:*
 
-<div align="center">
-  <a href="https://leetcode.com/akshitha_10-b32_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Akshithayadav-b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="40" width="40" />
-  </a>
-</div>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/Akahita_Tyagi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshita" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akshitaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshita" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/akshitatablh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshita" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akshitatyagi04" target="blank"><img align="center" src="https://www.codechef.com/favicon.ico" alt="akshita" height="30" width="30" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://github.com/cschindlbeck/compcodicons" alt="akshita" height="30" width="40" /></a> -->
+
+</p>
 
 <br clear="right"/>
 
