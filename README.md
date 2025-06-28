@@ -22,12 +22,11 @@ Strengthening: Computer Science fundamentals and DSA
 passion: Creating impactful solutions through elegant code
 motto: "Code with purpose, learn with curiosity"
 ```
-
-🎯 Current Journey
-🌐 Mastering Full Stack Development with modern frameworks
-🧠 Strengthening Computer Science fundamentals and DSA
-🤝 Open to collaborate on innovative projects that make a difference
-👩‍💻 Coding Profiles: <a href="https://leetcode.com/u/akshitha_10-b32_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25" /></a>   <a href="https://codeforces.com/profile/Akshithayadav-b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="25" width="25" /></a>   <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="25" width="25" /></a>
+### 🎯 Current Journey
+- 🌐 Mastering Full Stack Development with modern frameworks
+- 🧠 Strengthening Computer Science fundamentals and DSA
+- 🤝 Open to collaborate on innovative projects that make a difference
+- 👩‍💻 Coding Profiles: <a href="https://leetcode.com/u/akshitha_10-b32_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25" /></a>   <a href="https://codeforces.com/profile/Akshithayadav-b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="25" width="25" /></a>   <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="25" width="25" /></a>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> &nbsp;Tech Stack
