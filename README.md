@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Typing animation instead of static name repeat -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F075AA&center=true&vCenter=true&width=700&lines=🚀+Computer+Science+Student+%7C+Aspiring+SDE;🏆+Top+250+Walmart+CodeHers+2025;💻+Solved+500%2B+LeetCode+Problems;🌟+Building+impactful+tech+one+line+at+a+time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F075AA&center=true&vCenter=true&width=700&lines=🚀+Computer+Science+Student+%7C+Aspiring+SDE;🏆+Finalist+@+Walmart+CodeHers'+2025;💻+Solved+500%2B+LeetCode+Problems;🌟+Building+impactful+tech+one+line+at+a+time!" alt="Typing SVG" />
 
 </div>
 
