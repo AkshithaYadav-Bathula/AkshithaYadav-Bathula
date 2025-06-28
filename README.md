@@ -30,19 +30,17 @@ motto: "Code with purpose, learn with curiosity"
 - 👩‍💻 *Coding Profiles:*
 
 <div align="center">
-
   <a href="https://leetcode.com/akshitha_10-b32_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/akshithayadav_b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" alt="GeeksforGeeks" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Akshithayadav-b" target="_blank">
-    <img src="https://raw.githubusercontent.com/MohammedRashad0/Competitive-Programming/master/icons/codeforces.png" width="45" alt="Codeforces" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="40" width="40" />
   </a>
-
 </div>
 
 <br clear="right"/>
