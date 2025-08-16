@@ -37,16 +37,16 @@ motto: "Code with purpose, learn with curiosity"
   <img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark&perline=6" style="width:120px; height:auto;" />
 
   <h3>⚛ Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" style="width:120px; height:auto;" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=4" style="width:120px; height:auto;" />
 
   <h3>🔧 Backend & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=5" style="width:120px; height:auto;" />
+  <img src="https://skillicons.dev/icons?i=django,flask&theme=dark&perline=5" style="width:120px; height:auto;" />
 
   <h3>🗄 Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=4" style="width:120px; height:auto;" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=4" style="width:120px; height:auto;" />
 
   <h3>🛠 Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=6" style="width:120px; height:auto;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,&theme=dark&perline=6" style="width:120px; height:auto;" />
 
 </div>
 
