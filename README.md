@@ -19,7 +19,6 @@ name: Akshitha Yadav
 location: India
 current_focus: DSA & Full Stack Development 
 Strengthening: Computer Science fundamentals and DSA
-passion: Creating impactful solutions through elegant code
 motto: "Code with purpose, learn with curiosity"
 ```
 ### 🎯 Current Journey
