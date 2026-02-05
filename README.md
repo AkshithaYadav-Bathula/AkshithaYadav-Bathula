@@ -55,7 +55,7 @@ motto: "Code with purpose, learn with curiosity"
 <div align="center">
 
 ### 🌐 Find Me Online
-<a href="https://linkedin.com/in/akshitha-yadav-bathula-9ab324259" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=667eea" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -63,7 +63,7 @@ motto: "Code with purpose, learn with curiosity"
   <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=F075AA" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:akshithayadavbathula27@gmail.com">
+<a href="mailto:">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=764ba2" alt="Email" />
 </a>
 <br><br>
