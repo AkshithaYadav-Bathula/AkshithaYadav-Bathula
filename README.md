@@ -55,9 +55,9 @@ motto: "Code with purpose, learn with curiosity"
 <div align="center">
 
 ### 🌐 Find Me Online
-<a href="" target="_blank">
+<!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=667eea" alt="LinkedIn" />
-</a>
+</a> -->
 &nbsp;&nbsp;
 <a href="https://www.leetcode.com/akshitha_10-b32_" target="_blank"> 
   <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=F075AA" alt="LeetCode" />
